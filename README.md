@@ -1,4 +1,3 @@
-# CS_project
-#### Computer Simulation project
+# Computer Simulation project
 #### simulation of the given queue model
 #### Fall 2023
