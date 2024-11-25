@@ -60,8 +60,3 @@ This repository contains a queue simulation system for modeling interactions bet
   - Line graphs showing queue lengths and service times over time.
 
 ---
-
-## **Acknowledgments**
-This project demonstrates practical implementations of customer service simulations using Python.
-
----
